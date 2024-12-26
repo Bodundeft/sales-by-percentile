@@ -42,23 +42,23 @@ Total Sales: Displays the total sales amount and some summary statistics.
 ### The code currently only handles categorical analysis (value counts) if the user selects "Categorical" in the radio button. You could add functionalities like histograms or descriptive statistics for numerical columns.
 
 
- "You can now view your Streamlit app in your browser."
+# "You can now view your Streamlit app in your browser."
 
-This indicates that your Streamlit application has started running successfully. Streamlit is a Python library used to create interactive web applications. When you run a Streamlit script, it starts a local web server that hosts your application.
+### This indicates that your Streamlit application has started running successfully. Streamlit is a Python library used to create interactive web applications. When you run a Streamlit script, it starts a local web server that hosts your application.
 
-"Local URL: http://localhost:8501"
+### "Local URL: http://localhost:8501"
 
-localhost: This refers to your local machine.
-8501: This is the default port number that Streamlit uses to run the application.
-Therefore, "http://localhost:8501" is the URL you can access to view your app in your web browser if you are on the same machine where the Streamlit application is running.
+### localhost: This refers to your local machine.
+### 8501: This is the default port number that Streamlit uses to run the application.
+### Therefore, "http://localhost:8501" is the URL you can access to view your app in your web browser if you are on the same machine ### where the Streamlit application is running.
 
-"Network URL: http://192.168.207.5:8501"
+### "Network URL: http://192.168.207.5:8501"
 
-192.168.207.5: This is the IP address of your machine on your local network.
-"http://192.168.207.5:8501" is the URL you can use to access your Streamlit app from other devices on the same local network as your machine.
+### 192.168.207.5: This is the IP address of your machine on your local network.
+### "http://192.168.207.5:8501" is the URL you can use to access your Streamlit app from other devices on the same local network as your machine.
 
-In summary:
+## In summary:
 
-You have two ways to access your Streamlit app:
-Locally: http://localhost:8501 (from the same machine)
-Network: http://192.168.207.5:8501 (from other devices on the same network)
+### You have two ways to access your Streamlit app:
+### Locally: http://localhost:8501 (from the same machine)
+### Network: http://192.168.207.5:8501 (from other devices on the same network)
